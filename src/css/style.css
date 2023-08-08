@@ -1,0 +1,23 @@
+
+
+.container .qr-container img{
+    width: 265px;
+    height: 265px;
+    border-radius: 15px;
+    margin-top: 140px;
+}
+
+.container .qr-container h1{
+    color: var(--texto-principal);
+    font-weight: 700;
+    font-size: 20px;
+    padding: 18px;
+}
+
+.container .qr-container p{
+    color: var(--texto-secundario);
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0 20px;
+    margin-bottom: 150px;
+}
