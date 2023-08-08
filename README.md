@@ -1,6 +1,6 @@
-# Profile card
+# Qr code component main
 
-#### Profile card é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page simples, traz elementos bem interessantes nessas linguagens. Obrigado por chegar até aqui. Confira o código.
+#### Qr code component main é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page simples, traz elementos bem interessantes nessas linguagens. Obrigado por chegar até aqui. Confira o código.
 
 ## Índice
 
