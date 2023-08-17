@@ -28,7 +28,7 @@
 
 ### Links
 
-- Site URL: https://nandosti.github.io/profile-card/
+- Site URL: https://nandosti.github.io/qr-code-component-main/
 
 ### Construído com
 
