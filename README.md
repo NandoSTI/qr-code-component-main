@@ -18,11 +18,11 @@
 
 #### Tela Desktop
 
-<img src="./src/images/Laptop-1-1440x900.png" alt="Tela desktop exibindo funcionalidades">
+<img src="./src/images/desktop.png" alt="Tela desktop exibindo funcionalidades">
 
 #### Tela Ipad
 
-<img src="./src/images/iPad-Mini-608x1024.png" alt="Tela tablet exibindo funcionalidades">
+<img src="./src/images/ipad.png" alt="Tela tablet exibindo funcionalidades">
 
 #### Tela Mobile
 
