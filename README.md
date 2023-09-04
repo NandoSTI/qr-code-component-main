@@ -41,34 +41,25 @@
 
 ### O que aprendi
 
-Nesse projeto envolvendo HTML e CSS, aprendi conceitos importantes. Através do CSS, aprendi a dar estilo e formatar elementos HTML, explorando propriedades como cores, fontes, posicionamento e responsividade. No processo de aprendizado, foi importante entender os conceitos fundamentais de cada linguagem. Praticar esses conceitos em projetos reais nos ajuda a aprimorar nossas habilidades e explorar diferentes técnicas e soluções para os desafios que encontramos.
+Nesse projeto aprendi conceito de Grid e suas propriedades, responsividade, usar seletores, uso de variáveis para cores e pesos de fonte e outros conceitos fundamentais dessas tecnologias.
 
 ## Trechos de códigos
 
 ```
-body{
-    font-family: 'Outfit', sans-serif;
-}
+<article class="qrcode">
+        <img
+          src="src/images/image-qr-code.png"
+          alt="image containing a qrcode"
+        />
 
-.container{
-    background-color: var(--backgrond-container);
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
+```
 
-.container .qr-container{
-    width: 300px;
-    height: 450px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: var(--background-card);
-    text-align: center;
-    border-radius: 15px;
+
+```
+.qrcode img {
+    padding: var(--content-margin);
+    border-radius: 1.4rem;
+    width: 100%;
 }
 
 ```
