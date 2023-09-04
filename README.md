@@ -41,7 +41,7 @@
 
 ### O que aprendi
 
-Nesse projeto aprendi conceito de Grid e suas propriedades, responsividade, usar seletores, uso de variáveis para cores e pesos de fonte e outros conceitos fundamentais dessas tecnologias.
+Nesse projeto aprendi conceito de Grid e suas propriedades, responsividade, usar seletores, uso de variáveis para cores e pesos de fonte além de consolidar outros conceitos fundamentais dessas tecnologias.
 
 ## Trechos de códigos
 
