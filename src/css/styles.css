@@ -37,7 +37,7 @@
 }
 
 main {
-    height: 100vh;
+    height: 100%;
     display: grid;
     place-content: center;
 }
@@ -47,7 +47,7 @@ main {
     --content-spacing: 0.5rem;
     --content-margin: 1rem;
 
-    max-width: 17rem;
+    max-width: 22.750rem;
     display: grid;
     align-items: center;
     justify-items: center;
@@ -72,11 +72,12 @@ main {
 .qrcode .qrcode__content h1 {
     color: var(--clr-dark-blue);
     font-weight: var(--fw-bold);
-    font-size: .9725rem;
+    font-size: 1.5rem;
 }
 
 .qrcode .qrcode__content p {
     font-weight: var(--fw-regular);
-    font-size: .7500rem;
-    margin-bottom: 2rem;
+    font-size: 1.1rem;
+    margin-bottom: 2.5rem;
 } 
+
