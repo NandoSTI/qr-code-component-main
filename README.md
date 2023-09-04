@@ -1,10 +1,8 @@
 # Qr code component main
 
-<<<<<<< HEAD
+
 #### Qr code component main é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page simples, traz elementos bem interessantes nessas linguagens. Obrigado por chegar até aqui. Confira o código.
-=======
-#### 
->>>>>>> 7e7ce4d (atualização: refatorando)
+
 
 ## Índice
 
